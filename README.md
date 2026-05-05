@@ -46,10 +46,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaraEwaida&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaraEwaida&show_icons=true&theme=tokyonight&hide_border=true" alt="Sara's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraEwaida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
 ---
 
 ## 📬 Contact
