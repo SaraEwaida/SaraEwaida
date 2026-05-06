@@ -41,12 +41,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SaraEwaida&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraEwaida&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaraEwaida&theme=tokyo-night&hide_border=true)
 ---
 
 ## 📬 Contact
