@@ -44,15 +44,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Sara's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaraEwaida&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaraEwaida&show_icons=true&theme=tokyonight&hide_border=true" alt="Sara's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraEwaida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaraEwaida&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📬 Contact
